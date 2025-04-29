@@ -149,6 +149,11 @@
             <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Unburned" tags="Fons" id="5cu85I6UunZl5yd_UugQ-1">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=13;fillColor=#FFFFFF;gradientColor=none;shape=stencil(tVLRDoIwDPyaPc6MTYk+I/7HIgMWJyPdFPh7txQiKPpg4luvd21zbYnIXC1bRThzHuxFdbrwNRFHwrluagXah4iInIistKAqsLemQNzKqIzR1d5jhx7rEhZLOBsmiPiEWqObmfbwVSvhHDgYtSnb7FKUwzCVb/ZbTK03HFFPZa8dBeul17ZZcEZCpWgYRUsjqwXlOqXat/SqkWRt7u82PuzwL0ZC8DxlqY3BT5jzr6cPKXwbkT8A);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,0,0],[0.5,1,0],[0,0.5,0],[1,0.5,0],[0.1,1,0],[0.2,1,0],[0.3,1,0],[0.4,1,0],[0.6,1,0],[0.7,1,0],[0.8,1,0],[0.9,1,0],[0.1,0,0],[0.2,0,0],[0.3,0,0],[0.4,0,0],[0.6,0,0],[0.7,0,0],[0.8,0,0],[0.9,0,0],[0.06,0.9,0],[0.94,0.9,0],[0.03,0.8,0],[0.97,0.8,0],[0.01,0.7,0],[0.99,0.7,0],[0.01,0.6,0],[1,0.6,0],[0.01,0.4,0],[1,0.4,0],[0.01,0.3,0],[0.99,0.3,0],[0.03,0.2,0],[0.97,0.2,0],[0.06,0.1,0],[0.94,0.1,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
